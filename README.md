@@ -40,7 +40,7 @@ Everything works, but I couldn’t test deep sleep/hibernate (although the compu
 
 I used to have a real Mac Pro 5,1 (with two Xeon X5570 CPUs and 32 GB of DDR3 RAM, using the same AMD GPU and Wi-Fi/Bluetooth cards). Since that machine started shutting down randomly, I thought it was about time to replace it. At the time, I was inclined to get a PC (with the specs listed above) and use Linux exclusively. I did that, and later I found out that it was possible to build a Hackintosh with AMD CPUs.
 
-I found a repository with a base OpenCore EFI (which is basically for the exact same hardware) and decided to give it a try. In my case, almost everything worked out of the box. Since then, I’ve updated some kexts and made a few changes to the OpenCore config.plist.
+I found a [repository](https://github.com/Vericen/ryzen-hackintosh) with a base OpenCore EFI (which is basically for the exact same hardware) and decided to give it a try. In my case, almost everything worked out of the box. Since then, I’ve updated some kexts and made a few changes to the OpenCore config.plist.
 
 Comparing performance from a user perspective, it feels like using a real Mac—only faster. I’ve been using this machine for a month now, and I can open my projects in Final Cut, Logic, iMovie, and GarageBand without any issues.
 
