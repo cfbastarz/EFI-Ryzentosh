@@ -48,9 +48,9 @@ Comparing performance from a user perspective, it feels like using a real Mac—
 
 1. If you decide to use the files in this repository, be aware that I am not responsible for any damage caused to your computer. Use them at your own risk. You should know what OpenCore is and how it works before messing with it. Reading the official documentation is strongly advised.
 2. If you decide to use the files in this repository, you must generate your own serial number and motherboard serial to populate the required PlatformInfo sections.
-3. There are still a few tweaks that could be done to make my Ryzentosh even more “perfect-ish”:
-  * Make the PCIe Wi-Fi/Bluetooth adapter appear as internal in macOS. This requires working with USBToolBox. Since it already works as I need it to, I’m not dealing with this for now.
-  * Some DeviceProperties were inherited from the original repository. Since they are harmless, I’m leaving them as they are.
+3. There are still a few tweaks that could be done to make my Ryzentosh even more "perfect-ish":
+    * Make the PCIe Wi-Fi/Bluetooth adapter appear as internal in macOS. This requires working with USBToolBox. Since it already works as I need it to, I’m not dealing with this for now.
+    * Some DeviceProperties were inherited from the original repository. Since they are harmless, I’m leaving them as they are.
 4. My PC case is certainly different from yours (I use a Cooler Master 301 Lite), so you will need to remap the USB ports if you want to use the front USB ports on your case.
 
 December 2025.
