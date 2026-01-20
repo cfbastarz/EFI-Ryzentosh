@@ -2,6 +2,8 @@
 
 OpenCore (v0.8.8) EFI for my Ryzentosh.
 
+<img width="698" height="463" alt="info" src="https://github.com/user-attachments/assets/ce76b42a-ce3f-4a94-b457-563f83e910e7" />
+
 ## Specs
 
 | Component | Model                |
